@@ -1,4 +1,3 @@
-<img width="2511" height="1018" alt="image" src="https://github.com/user-attachments/assets/ef22b817-6964-4ce1-afc3-0212430e747c" /># EstudosCyber
 Hub de estudos em cybersegurança
 
 
